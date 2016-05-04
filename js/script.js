@@ -7,5 +7,5 @@ function changeColour() {
 }
 
 function alertNew() {
-	alert("Welcome new user!");
+	alert("Welcome new user!!!");
 }
