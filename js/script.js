@@ -6,6 +6,6 @@ function changeColour() {
 	document.getElementById("bd").classList.toggle("skyblue");
 }
 
-function alertNew() {
-	alert("Welcome new user!!!");
+function changeTitle() {
+	document.getElementById("title").classList.toggle("skyblue");
 }
